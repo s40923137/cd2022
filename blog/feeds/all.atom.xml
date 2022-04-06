@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CMSimfly 網際內容管理</title><link href="https://chiamingyen.github.io/cmsimfly/blog/" rel="alternate"></link><link href="https://chiamingyen.github.io/cmsimfly/blog/feeds/all.atom.xml" rel="self"></link><id>https://chiamingyen.github.io/cmsimfly/blog/</id><updated>2022-04-06T09:05:28+08:00</updated><entry><title>CD2022</title><link href="https://chiamingyen.github.io/cmsimfly/blog/w6_40923137.html" rel="alternate"></link><published>2022-04-06T00:00:00+08:00</published><updated>2022-04-06T09:05:28+08:00</updated><author><name>40923137</name></author><id>tag:chiamingyen.github.io,2022-04-06:/cmsimfly/blog/w6_40923137.html</id><summary type="html">&lt;p&gt;目前進度:&lt;/p&gt;
+&lt;p&gt;3/23 把製作好的影片推到小組網站上&lt;/p&gt;
+&lt;p&gt;04/06 架好這個網站&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;目前進度:&lt;/p&gt;
+&lt;p&gt;3/23 把製作好的影片推到小組網站上&lt;/p&gt;
+&lt;p&gt;04/06 架好這個網站&lt;/p&gt;
+
+
+&lt;h2&gt;Python&lt;/h2&gt;
+&lt;p&gt;Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI&lt;/p&gt;
+&lt;p&gt;Python 可以用來開發網際版的內容管理系統 CMSiMDE&lt;/p&gt;
+&lt;p&gt;Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統&lt;/p&gt;
+&lt;p&gt;Python 可以用於機器學習 Keras, Pytorch&lt;/p&gt;
+&lt;h2&gt;Flutter&lt;/h2&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="CD2022"></category></entry></feed>
