@@ -55,9 +55,9 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2020</vh>
-<v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
-<v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
-<v t="leo.20220409114450.1"><vh>W7</vh></v>
+<v t="leo.20180423103639.1"><vh>2022 Spring CD 課程</vh>
+<v t="leo.20180423103656.1"><vh>@edit 20220329.md</vh></v>
+<v t="leo.20220409114450.1"><vh>@edit W7.md</vh></v>
 </v>
 </v>
 </v>
@@ -89,36 +89,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20220409114450.1">@language md
----
-Title:  CD2022
-Date: 2022-04-06 
-Category: Misc
-Tags: CD2022
-Slug: w7_40923137
-Author: 40923137
----
-
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-本周進度:
-用Onshpae畫出四個零件
-
-零件1:
-https://cad.onshape.com/documents/f484f335d434b2420f28c760/w/2e5167e392dd708c1d7a2f9d/e/650415a4682b2cd15c6599fa?renderMode=0&amp;uiState=624d0e59ad7e0a2a6a7a9d86
-
-零件2:
-https://cad.onshape.com/documents/7b358ee6fef19bd23848a159/w/7fc6e16ec7d055aa790da2cb/e/d31700c74e5d71c3bcb7d2d9?renderMode=0&amp;uiState=624d0e7cd82ccb6ad7d18620
-
-零件3:
-https://cad.onshape.com/documents/8e81630b8b35609cb86f1c6d/w/8b523616e09c02f211443b6c/e/0b383ace922a0ff901067ed6?renderMode=0&amp;uiState=624d0e912f31481adf13c342
-
-零件4:
-https://cad.onshape.com/documents/3bc1639da31e111b4606a057/w/79dd8022cff79280a99b6cdc/e/b5dde15cda7bdf8fbd464acd?renderMode=0&amp;uiState=624d0ea6ad7e0a2a6a7a9dac
-
-
-</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
